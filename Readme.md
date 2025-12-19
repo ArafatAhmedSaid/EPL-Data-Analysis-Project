@@ -24,6 +24,9 @@ SQL queries will then be used to answer key football-related questions, such as 
 5.	Tools & Technologies Used:
 
 •	SQL – for database design and querying.
+
 •	BigQuery – for cloud-based data storage and analysis
+
 •	Tableau – for data visualization and dashboards
+
 •	CSV Dataset – English Premier League Match Data (2021–2022)
