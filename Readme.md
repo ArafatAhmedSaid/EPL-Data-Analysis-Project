@@ -10,8 +10,6 @@ I chose this project because I am a football fan especially the EPL which is pop
 
 3.	Outcome/Deliverables:
 
-From this project, the user should expect:
-
 •	A well-structured database containing EPL match data.
 
 •	SQL queries that answer important football-related questions
